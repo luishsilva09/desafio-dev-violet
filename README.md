@@ -3,7 +3,8 @@
 Este projeto é uma aplicação full-stack utilizando **Next.js** com **API Routes** integradas ao **MongoDB**. Os dados são gerenciados via rotas da API (`/api`) dentro do próprio projeto.
 
 ---
-
+## Podendo ser usado a versao em deploy: 
+https://desafio-dev-violet.vercel.app/
 ## 🚀 Instruções para rodar o projeto localmente
 
 ### 🔧 Pré-requisitos
